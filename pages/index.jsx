@@ -1,7 +1,6 @@
-import type { NextPage } from 'next'
 import SideBar from '../components/SideBar'
 
-const Home: NextPage = () => {
+const Home = () => {
   return (
     <div className="bg-black h-screen overflow-hidden">
       <main>
